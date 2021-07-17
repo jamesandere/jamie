@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974191033290",
+    "project_id": "jamie-e67be",
+    "storage_bucket": "jamie-e67be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974191033290:android:dd1ebb064ab4448a5e2d33",
+        "android_client_info": {
+          "package_name": "com.andere.jamie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974191033290-7mu0i8nt80h3k7ggl34v72vbqn9g6b7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzSTYqZ3EP1TroV7-kXi3Q97cnvKO8w4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974191033290-7mu0i8nt80h3k7ggl34v72vbqn9g6b7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,51 @@
+name: jamie
+description: A new Flutter application.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  page_transition: ^1.1.7+6
+  provider: ^5.0.0
+  eva_icons_flutter: ^3.0.0
+  font_awesome_flutter: ^9.0.0
+  firebase_auth: ^1.0.1
+  firebase_core: ^1.0.2
+  google_sign_in: ^5.0.1
+  firebase_storage: ^8.0.0
+  image_picker: ^0.7.3
+  cloud_firestore: ^1.0.2
+  custom_navigation_bar: ^0.8.0
+  flutter_auth_buttons: ^0.10.0
+  lottie: ^1.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/animations/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins.ttf
+
+    - family: Monteserat
+      fonts:
+        - asset: assets/fonts/Monteserat.ttf
+
+
